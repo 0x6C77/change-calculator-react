@@ -4,5 +4,5 @@ import App from "./components/App.js";
 
 ReactDOM.render(
     <App />,
-    document.getElementById("CoinCalculator")
+    document.getElementById("App")
 );
